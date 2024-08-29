@@ -1,2 +1,2 @@
-# Web-Practica-
+# Web_Practica
 Para empezar a practicar
